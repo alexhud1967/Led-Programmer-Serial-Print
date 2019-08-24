@@ -1,4 +1,7 @@
 # Led-Programmer-Serial-Print
+
+This most recent code works. The file is called "LightCoder.001" and the breakthrough is documented there.
+
 More Work on the LED programmer. Mainly, a simple serial print to keep safe
 
 Run this big ass thing to see the first code I wrote, run. 
