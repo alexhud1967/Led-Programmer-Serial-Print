@@ -1,0 +1,14 @@
+//LED_SERIAL  Hello World!
+// We will eventualy type "Blue" and an LED will blink the Jandy code for "BLUE"
+// This is just a sample of code so I don't fuck up  curly brackets.
+int counter = 1;
+void setup(){
+Serial.begin(57600);
+}
+void loop(){
+Serial.println("Hello World");
+Serial.print("Counter = ");
+Serial.println(counter);
+delay(1000);
+counter++;
+}
